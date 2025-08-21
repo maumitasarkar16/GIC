@@ -1,3 +1,12 @@
 # GIC
+# Clone the repository
+git clone <repo-url>
 
-To run the server - npm run dev
+# Go to project folder
+cd project-name
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
